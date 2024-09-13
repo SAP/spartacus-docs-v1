@@ -79,9 +79,9 @@ A contribution will be considered for inclusion in the Spartacus documentation i
 
 The "guidelines and standards" requirement could fill entire books and still lack a 100% clear definition, but rest assured that you will receive feedback if something is not right. That being said, please consult the [Contributing to Documentation guides](https://github.com/SAP/spartacus-docs/tree/master/contributing_to_docs).
 
-### Contribution of generated AI content
+### Contribution of Generated AI Content
 
-To contribute generated AI content, please read the following [guide](https://github.com/SAP/.github/blob/main/CONTRIBUTING_USING_GENAI.md)
+To contribute generated AI content, please read the following [guide](https://github.com/SAP/.github/blob/main/CONTRIBUTING_USING_GENAI.md).
 
 ### Contribution Process
 
